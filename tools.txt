@@ -1,4 +1,5 @@
-Greetings from my computer! 
+
+Greetings from my computer and from GitHub!
 Adding the first row in github
 this is the second part of tools
 Adding some text in github
